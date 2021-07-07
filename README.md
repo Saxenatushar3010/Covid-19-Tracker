@@ -1,3 +1,5 @@
+# FireBase Live Deployment
+[Covid-19 Tracker](https://covid-19-tracker-67b42.web.app)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
